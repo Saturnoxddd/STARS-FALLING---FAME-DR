@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  background: radial-gradient(circle at top, #a2d2ff, #c8e7ff);
+  overflow: hidden;
+}
+
+canvas#stars {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
